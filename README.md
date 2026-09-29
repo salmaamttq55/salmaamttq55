@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,cpp,dart,flutter,kali,linux,git,github,vscode,visualstudio&perline=6" />
+  <a href="https://www.linkedin.com/in/salma-ahmad-608a5a359" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c,py,cpp,dart,flutter,kali,linux,git,github,linkedin,vscode,visualstudio&perline=6" />
   </a>
 </div>
