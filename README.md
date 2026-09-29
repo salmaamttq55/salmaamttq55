@@ -1,6 +1,9 @@
-# Hi , I am Salma Ahmad 🤍😊
+# Hi , I am Salma Ahmad 🤍🌝
 ### Cyber Security Student At JUST 
 ![](https://komarev.com/ghpvc/?username=salmaamttq55&label=Profile+Views)
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+
 
 <!--
 **salmaamttq55/salmaamttq55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
