@@ -26,6 +26,10 @@
 
 <br>
 
+---
+
+<br>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,cpp,dart,flutter,kali,linux,git,github,vscode,visualstudio&perline=6" />
