@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,dart,flutter,kali,linux,git,github,vscode,visualstudio&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,py,cpp,dart,flutter,kali,linux,git,github,vscode,visualstudio&perline=6" />
   </a>
 </p>!--
 **salmaamttq55/salmaamttq55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
